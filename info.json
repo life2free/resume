@@ -1,0 +1,22 @@
+{
+  "name": "thunderous",
+  "website": "https://life2free.github.io/",
+  "linkedin": "https://www.linkedin.com/in/shimin-rao-25811956/",
+  "github": "life2free",
+  "proficientTechnologies": [
+    "Java",
+    "C",
+    "Python",
+    "Javascript",
+    "React",
+    "Node",
+    "Django",
+    "jQuery",
+    "SQL",
+    "MySql",
+    "Oracle",
+    "Html",
+    "CSS"
+  ],
+  "otherSkills": ["Github", "Docker", "Maven"]
+}

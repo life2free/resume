@@ -1,0 +1,22 @@
+{
+  "name": "thunderous-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/life2free/resume.git"
+  },
+  "author": "thunderous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/life2free/resume/issues"
+  },
+  "homepage": "https://github.com/life2free/resume#readme",
+  "bin": {
+    "your-command-here": "./index.js"
+  }
+}
