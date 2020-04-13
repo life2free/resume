@@ -12,8 +12,6 @@ Before install the package, please go ahead and create/change into a new directo
 
     npm i -g shimin-resume
 
-- You should be able to find one folder "node_modules" and one file "package-lock.json".
-
 ### Use
 
 Once install the package, run the command as below to print my resume:
