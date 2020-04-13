@@ -10,7 +10,7 @@ I alreay published the package on npm. Anyone can install the package and use it
 
 Before install the package, please go ahead and create/change into a new directory to install the package. Then run:
 
-    npm install thunderous-resume
+    npm install shimin-resume
 
 - You should be able to find one folder "node_modules" and one file "package-lock.json".
 

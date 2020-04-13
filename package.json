@@ -1,5 +1,5 @@
 {
-  "name": "thunderous-resume",
+  "name": "shimin-resume",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/life2free/resume.git"
   },
-  "author": "thunderous",
+  "author": "shimin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/life2free/resume/issues"
